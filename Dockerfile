@@ -1,3 +1,3 @@
-FROM jdk:8
+FROM wlb-repo
 MAINTAINER qixingcao
 
