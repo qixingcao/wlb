@@ -1,3 +1,3 @@
-FROM wlb/wlb-repo 
+FROM registry.cn-hangzhou.aliyuncs.com/wlb/wlb-repo 
 MAINTAINER qixingcao
 
