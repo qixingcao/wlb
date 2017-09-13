@@ -1,3 +1,3 @@
-FROM wlb-repo
+FROM wlb/wlb-repo 
 MAINTAINER qixingcao
 
