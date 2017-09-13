@@ -1,3 +1,3 @@
-FROM registry.cn-hangzhou.aliyuncs.com/wlb/wlb-repo 
+FROM centos 
 MAINTAINER qixingcao
 
