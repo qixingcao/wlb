@@ -1,3 +1,3 @@
-FROM centos 
+FROM java 
 MAINTAINER qixingcao
 
